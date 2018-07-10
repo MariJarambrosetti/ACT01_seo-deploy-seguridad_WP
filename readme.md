@@ -56,7 +56,7 @@ Luego de terminar, documenta todo el proceso que hiciste dentro de un **README.m
 	* Trabajando bajo el template "mezmerize" se personalizó rapidamente el home segun el presupuesto del cliente, y añadiendo las keywords con ayuda de la página ubersuggest, se logró dar con un conjunto long tail, buscado principalmente para la contratacion de agencias de aseo. 
 
 - Un screenshot de la página de inicio y entrada con contenido único basado en las keywords y rubro de la empresa **Kleaner**
-	![Screenshot Home](img/Screenshot_1.jpg)
+	![Screenshot Home](img/Screenshot1.jpg)
 	![Screenshot Entrada1](img/Screenshot_2.jpg)
 	![Screenshot Entrada2](img/Screenshot_3.jpg)
 
