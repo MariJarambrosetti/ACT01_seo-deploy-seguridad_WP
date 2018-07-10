@@ -48,9 +48,18 @@ Con todas las configuraciones listas, la página deberá verse de la siguiente m
 
 Luego de terminar, documenta todo el proceso que hiciste dentro de un **README.md**, agregando:
 
-- Las Keywords y categorías escogidas para la página web
+- Las Keywords y categorías escogidas para la página web 
+	* Limpieza de oficinas, por que a eso se dedica la empresa y eran keywords muy usadas al momento de buscar una empresa o agencia de aseo.  
+	* Usé la categóría "limpieza", ya que es mas general y caen todas las entradas, no hay mucho tema que separar. 
+
 - Una breve descripción del proceso realizado en la búsqueda de keywords
+	* Trabajando bajo el template "mezmerize" se personalizó rapidamente el home segun el presupuesto del cliente, y añadiendo las keywords con ayuda de la página ubersuggest, se logró dar con un conjunto long tail, buscado principalmente para la contratacion de agencias de aseo. 
+
 - Un screenshot de la página de inicio y entrada con contenido único basado en las keywords y rubro de la empresa **Kleaner**
+	![Screenshot Home](img/screenshot_1.jpg)
+	![Screenshot Entrada1](img/screenshot_2.jpg)
+	![Screenshot Entrada2](img/screenshot_3.jpg)
+
 
 ###### **IMPORTANTE: En esta actividad no te preocupes por lo visual de la página web, sino que enfoca todos tus esfuerzos en optimizar el SEO**
   
@@ -69,4 +78,7 @@ Luego de terminar, documenta todo el proceso que hiciste dentro de un **README.m
 Luego de terminar debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la plataforma [empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
 ##### **Mucha suerte!**
+
+
+
 
